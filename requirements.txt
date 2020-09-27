@@ -1,0 +1,7 @@
+pandas
+PrettyTable
+tensorboard
+torch
+torchvision
+torchkeras
+torchtext
